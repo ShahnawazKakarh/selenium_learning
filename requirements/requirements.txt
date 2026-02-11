@@ -20,3 +20,4 @@ Jinja2
 jinjasql
 MarkupSafe
 selenium
+openpyxl
